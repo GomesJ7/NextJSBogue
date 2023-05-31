@@ -1,0 +1,15 @@
+.form{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 90%;
+}
+
+.input{
+  margin:2px 0 4px 0;
+}
+
+.submit{
+  width:fit-content;
+  align-self:center;
+}
